@@ -1,27 +1,23 @@
-<h1 align="center">Hi, I'm Ling 👋</h1>
+### Hi, I'm Ling
 
-<p align="center">
-  Web developer from the Netherlands. Building products, tools and the occasional side project.
-</p>
+Web developer from the Netherlands. I have been building websites and servers for over 24 years, and with Nuxt since 2018.
 
-<p align="center">
-  <a href="https://developling.nl">developling.nl</a> ·
-  <a href="https://interiorboards.nl">interiorboards.nl</a> ·
-  <a href="https://qelpdesk.com">qelpdesk.com</a>
-</p>
+Through [developling.nl](https://developling.nl) I help teams and business owners with three things:
 
----
+- **Nuxt development**: reviews, upgrades to Nuxt 4, and an extra developer for your team
+- **Website speed**: sites that load fast, respond to every click right away and don't jump around
+- **CMS advice**: picking the right CMS, or building the smallest one that works
 
-### About me
+At [Smit Digitaal Vakmanschap](https://smit.net) I do DevOps, hosting and Nuxt.
 
-- 💼 Working at **Smit**
-- 🌐 Running **[developling.nl](https://developling.nl)**, my own development studio
-- 🪵 Built **[interiorboards.nl](https://interiorboards.nl)**, my own product
-- 🛠️ Currently building **[qelpdesk.com](https://qelpdesk.com)**, a helpdesk platform
-- 🍷 Also working on **[drankdozijn.nl](https://drankdozijn.nl)**
-- 📍 Based in the Netherlands
+**What I'm working on**
 
-### Tech I work with
+- [softmint.nl](https://softmint.nl): custom web apps, now building a presentation tool for interior designers
+- [qelpdesk.com](https://qelpdesk.com): ticket system, my own product, in progress
+- [interiorboards.nl](https://interiorboards.nl): interior moodboards with 1400+ products and materials, my own product
+- [drankdozijn.nl](https://drankdozijn.nl): drinks webshop, built and maintained at Smit
+
+**Tech**
 
 <p>
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white" alt="Nuxt" />
@@ -36,11 +32,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### Projects
+**Contact**
 
-| Project | What it is |
-| --- | --- |
-| [developling.nl](https://developling.nl) | My own site, freelance and studio work |
-| [interiorboards.nl](https://interiorboards.nl) | Interior design moodboards |
-| [qelpdesk.com](https://qelpdesk.com) | Helpdesk platform, in progress |
-| [drankdozijn.nl](https://drankdozijn.nl) | Drinks webshopshop I work on @Smit |
+[developling.nl](https://developling.nl) · info@developling.nl
