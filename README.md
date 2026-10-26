@@ -35,5 +35,3 @@ At [Smit Digitaal Vakmanschap](https://smit.net) I do DevOps, hosting and Nuxt.
 **Contact**
 
 [developling.nl](https://developling.nl) · info@developling.nl
-
-<img src="https://stats.developling.nl/p/dBOW9tFh0" alt="" width="1" height="1" />
